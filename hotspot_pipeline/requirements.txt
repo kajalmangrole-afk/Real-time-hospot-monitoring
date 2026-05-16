@@ -1,0 +1,5 @@
+﻿kafka-python>=2.0.2
+psutil>=5.9.0
+pyspark>=3.5.0
+jsonschema>=4.19.0
+pytest>=8.4.0
